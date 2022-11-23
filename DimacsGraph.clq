@@ -1,0 +1,16 @@
+﻿c DimacsGraph.clq
+c number nodes, edges: 9, 13
+p edge 9 13
+e 1 2
+e 1 4
+e 1 5
+e 2 4
+e 2 5
+e 3 5
+e 3 6
+e 4 5
+e 5 6
+e 5 8
+e 6 9
+e 7 8
+e 8 9

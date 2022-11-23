@@ -1,0 +1,15 @@
+C:\Year2Sem4\380CT\Assignments\Tabu_clique_optimization_problem\bin\Debug\net6.0\Tabu_clique_optimization_problem.exe
+C:\Year2Sem4\380CT\Assignments\Tabu_clique_optimization_problem\bin\Debug\net6.0\Tabu_clique_optimization_problem.deps.json
+C:\Year2Sem4\380CT\Assignments\Tabu_clique_optimization_problem\bin\Debug\net6.0\Tabu_clique_optimization_problem.runtimeconfig.json
+C:\Year2Sem4\380CT\Assignments\Tabu_clique_optimization_problem\bin\Debug\net6.0\Tabu_clique_optimization_problem.dll
+C:\Year2Sem4\380CT\Assignments\Tabu_clique_optimization_problem\bin\Debug\net6.0\Tabu_clique_optimization_problem.pdb
+C:\Year2Sem4\380CT\Assignments\Tabu_clique_optimization_problem\obj\Debug\net6.0\Tabu_clique_optimization_problem.csproj.AssemblyReference.cache
+C:\Year2Sem4\380CT\Assignments\Tabu_clique_optimization_problem\obj\Debug\net6.0\Tabu_clique_optimization_problem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Year2Sem4\380CT\Assignments\Tabu_clique_optimization_problem\obj\Debug\net6.0\Tabu_clique_optimization_problem.AssemblyInfoInputs.cache
+C:\Year2Sem4\380CT\Assignments\Tabu_clique_optimization_problem\obj\Debug\net6.0\Tabu_clique_optimization_problem.AssemblyInfo.cs
+C:\Year2Sem4\380CT\Assignments\Tabu_clique_optimization_problem\obj\Debug\net6.0\Tabu_clique_optimization_problem.csproj.CoreCompileInputs.cache
+C:\Year2Sem4\380CT\Assignments\Tabu_clique_optimization_problem\obj\Debug\net6.0\Tabu_clique_optimization_problem.dll
+C:\Year2Sem4\380CT\Assignments\Tabu_clique_optimization_problem\obj\Debug\net6.0\refint\Tabu_clique_optimization_problem.dll
+C:\Year2Sem4\380CT\Assignments\Tabu_clique_optimization_problem\obj\Debug\net6.0\Tabu_clique_optimization_problem.pdb
+C:\Year2Sem4\380CT\Assignments\Tabu_clique_optimization_problem\obj\Debug\net6.0\Tabu_clique_optimization_problem.genruntimeconfig.cache
+C:\Year2Sem4\380CT\Assignments\Tabu_clique_optimization_problem\obj\Debug\net6.0\ref\Tabu_clique_optimization_problem.dll
